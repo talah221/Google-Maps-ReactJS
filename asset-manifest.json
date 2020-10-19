@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Google-Maps-ReactJS/static/css/main.b02f8ecc.chunk.css",
+    "main.js": "/Google-Maps-ReactJS/static/js/main.35df544c.chunk.js",
+    "main.js.map": "/Google-Maps-ReactJS/static/js/main.35df544c.chunk.js.map",
+    "runtime-main.js": "/Google-Maps-ReactJS/static/js/runtime-main.f1767590.js",
+    "runtime-main.js.map": "/Google-Maps-ReactJS/static/js/runtime-main.f1767590.js.map",
+    "static/js/2.0b65bf70.chunk.js": "/Google-Maps-ReactJS/static/js/2.0b65bf70.chunk.js",
+    "static/js/2.0b65bf70.chunk.js.map": "/Google-Maps-ReactJS/static/js/2.0b65bf70.chunk.js.map",
+    "index.html": "/Google-Maps-ReactJS/index.html",
+    "precache-manifest.00efb1c642ef3baa795c7c26a5c61519.js": "/Google-Maps-ReactJS/precache-manifest.00efb1c642ef3baa795c7c26a5c61519.js",
+    "service-worker.js": "/Google-Maps-ReactJS/service-worker.js",
+    "static/css/main.b02f8ecc.chunk.css.map": "/Google-Maps-ReactJS/static/css/main.b02f8ecc.chunk.css.map",
+    "static/js/2.0b65bf70.chunk.js.LICENSE": "/Google-Maps-ReactJS/static/js/2.0b65bf70.chunk.js.LICENSE",
+    "static/media/global.scss": "/Google-Maps-ReactJS/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1767590.js",
+    "static/js/2.0b65bf70.chunk.js",
+    "static/css/main.b02f8ecc.chunk.css",
+    "static/js/main.35df544c.chunk.js"
+  ]
+}
